@@ -1,0 +1,4 @@
+Instance: ESC11.sop
+Path: [1, 2, 9, 12, 3, 4, 7, 11, 8, 5, 6, 10, 13]
+Cost: 2453
+Time: 0.45 sec
