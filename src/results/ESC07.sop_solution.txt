@@ -1,0 +1,4 @@
+Instance: ESC07.sop
+Cost: 2125
+Time: 0.95 seconds
+Solution: [1, 2, 5, 3, 8, 7, 6, 4, 9]
